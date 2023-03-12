@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **React, Redux, RTK, MUI**
 
-- 👨‍💻 All of my projects are available at [https://sitexpress.github.io/sultan-gedgafov-cv-portfolio/](https://sitexpress.github.io/sultan-gedgafov-cv-portfolio/)
-
 - 💬 Ask me about **React, JavaScript, TypeScript**
 
-- 📫 How to reach me **sitexpressorg@gmail.com**
-
-- 📄 Know about my experiences [https://sitexpress.github.io/sultan-gedgafov-cv-portfolio/](https://sitexpress.github.io/sultan-gedgafov-cv-portfolio/)
+- 📫 I'm in Skype: **sulnikon**
+- 📫 How to reach me: **sitexpressorg@gmail.com**
+- 👨‍💻 Portfolio: [https://sultan-gedgafov-cv-portfolio.vercel.app/](https://sultan-gedgafov-cv-portfolio.vercel.app/)
+- 👨‍💻 Vercel-dashboard: [https://vercel.com/dashboard](https://vercel.com/dashboard)
+- 👨‍💻 LinkedIn: [https://www.linkedin.com/in/sultan-gedgafov-691806198/](https://www.linkedin.com/in/sultan-gedgafov-691806198/)
 
 - ⚡ Fun fact **I love books**
 
