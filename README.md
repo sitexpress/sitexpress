@@ -15,7 +15,7 @@
 - 💬 Ask me about: **React, JavaScript, TypeScript**
 - 💬 Use for tests: **Jest, Storybook, Snapshot**
 
-- 📫 I'm in Skype: **sulnikon**
+- 📫 I'm on Skype: **sulnikon**
 - 📫 How to reach me: **sitexpressorg@gmail.com**
 - 👨‍💻 Portfolio: [https://sultan-gedgafov-cv-portfolio.vercel.app/](https://sultan-gedgafov-cv-portfolio.vercel.app/)
 - 👨‍💻 Vercel-dashboard: [https://vercel.com/dashboard](https://vercel.com/dashboard)
