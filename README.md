@@ -8,11 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/sapper___morton" target="blank"><img src="https://img.shields.io/twitter/follow/sapper___morton?logo=twitter&style=for-the-badge" alt="sapper___morton" /></a> </p>
 
-- 🔭 I’m currently working on **Todolist, Social network, Blogpost**
+- 🔭 I’m currently working on: **Todolist, Social network, Blogpost**
 
-- 🌱 I’m currently learning **React, Redux, RTK, MUI**
+- 🌱 I’m currently learning: **React, Redux, RTK, MUI**
 
-- 💬 Ask me about **React, JavaScript, TypeScript**
+- 💬 Ask me about: **React, JavaScript, TypeScript**
+- 💬 Use for tests: **Jest, Storybook, Snapshot**
 
 - 📫 I'm in Skype: **sulnikon**
 - 📫 How to reach me: **sitexpressorg@gmail.com**
