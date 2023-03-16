@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sitexpress&label=Profile%20views&color=0e75b6&style=flat" alt="sitexpress" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sapper___morton" target="blank"><img src="https://img.shields.io/twitter/follow/sapper___morton?logo=twitter&style=for-the-badge" alt="sapper___morton" /></a> </p>
+<img align="center" alt="Coding" width="400" src="https://www.codewars.com/users/sitexpressorg/badges/small"/>
 
 - 🔭 I’m currently working on: **Todolist, Social network, Blogpost**
 
@@ -38,3 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sitexpress&show_icons=true&locale=en" alt="sitexpress" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sitexpress&" alt="sitexpress" /></p>
+
+
